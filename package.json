@@ -1,5 +1,5 @@
 {
-  "name": "vrifycustomerapp",
+  "name": "customerapp",
   "version": "1.0.0",
   "description": "RESTful API Service",
   "main": "index.js",
