@@ -1,4 +1,4 @@
-# VRifyCustomerApp
+# CustomerApp
 
 A simple Node.js RESTful API which interacts with Customers and Customer_Addresses tables.
 
